@@ -1,0 +1,15 @@
+/Users/dimaguzercuk/Desktop/VowelReplacement/VowelReplacement/bin/Debug/net5.0/VowelReplacement.deps.json
+/Users/dimaguzercuk/Desktop/VowelReplacement/VowelReplacement/bin/Debug/net5.0/VowelReplacement.runtimeconfig.json
+/Users/dimaguzercuk/Desktop/VowelReplacement/VowelReplacement/bin/Debug/net5.0/VowelReplacement.runtimeconfig.dev.json
+/Users/dimaguzercuk/Desktop/VowelReplacement/VowelReplacement/bin/Debug/net5.0/VowelReplacement.dll
+/Users/dimaguzercuk/Desktop/VowelReplacement/VowelReplacement/bin/Debug/net5.0/ref/VowelReplacement.dll
+/Users/dimaguzercuk/Desktop/VowelReplacement/VowelReplacement/bin/Debug/net5.0/VowelReplacement.pdb
+/Users/dimaguzercuk/Desktop/VowelReplacement/VowelReplacement/obj/Debug/net5.0/VowelReplacement.csprojAssemblyReference.cache
+/Users/dimaguzercuk/Desktop/VowelReplacement/VowelReplacement/obj/Debug/net5.0/VowelReplacement.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dimaguzercuk/Desktop/VowelReplacement/VowelReplacement/obj/Debug/net5.0/VowelReplacement.AssemblyInfoInputs.cache
+/Users/dimaguzercuk/Desktop/VowelReplacement/VowelReplacement/obj/Debug/net5.0/VowelReplacement.AssemblyInfo.cs
+/Users/dimaguzercuk/Desktop/VowelReplacement/VowelReplacement/obj/Debug/net5.0/VowelReplacement.csproj.CoreCompileInputs.cache
+/Users/dimaguzercuk/Desktop/VowelReplacement/VowelReplacement/obj/Debug/net5.0/VowelReplacement.dll
+/Users/dimaguzercuk/Desktop/VowelReplacement/VowelReplacement/obj/Debug/net5.0/ref/VowelReplacement.dll
+/Users/dimaguzercuk/Desktop/VowelReplacement/VowelReplacement/obj/Debug/net5.0/VowelReplacement.pdb
+/Users/dimaguzercuk/Desktop/VowelReplacement/VowelReplacement/obj/Debug/net5.0/VowelReplacement.genruntimeconfig.cache

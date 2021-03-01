@@ -1,0 +1,15 @@
+/Users/dimaguzercuk/Projects/C_Sharp/2Lab/ReverseString/ReverseString/bin/Debug/net5.0/ReverseString.deps.json
+/Users/dimaguzercuk/Projects/C_Sharp/2Lab/ReverseString/ReverseString/bin/Debug/net5.0/ReverseString.runtimeconfig.json
+/Users/dimaguzercuk/Projects/C_Sharp/2Lab/ReverseString/ReverseString/bin/Debug/net5.0/ReverseString.runtimeconfig.dev.json
+/Users/dimaguzercuk/Projects/C_Sharp/2Lab/ReverseString/ReverseString/bin/Debug/net5.0/ReverseString.dll
+/Users/dimaguzercuk/Projects/C_Sharp/2Lab/ReverseString/ReverseString/bin/Debug/net5.0/ref/ReverseString.dll
+/Users/dimaguzercuk/Projects/C_Sharp/2Lab/ReverseString/ReverseString/bin/Debug/net5.0/ReverseString.pdb
+/Users/dimaguzercuk/Projects/C_Sharp/2Lab/ReverseString/ReverseString/obj/Debug/net5.0/ReverseString.csprojAssemblyReference.cache
+/Users/dimaguzercuk/Projects/C_Sharp/2Lab/ReverseString/ReverseString/obj/Debug/net5.0/ReverseString.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dimaguzercuk/Projects/C_Sharp/2Lab/ReverseString/ReverseString/obj/Debug/net5.0/ReverseString.AssemblyInfoInputs.cache
+/Users/dimaguzercuk/Projects/C_Sharp/2Lab/ReverseString/ReverseString/obj/Debug/net5.0/ReverseString.AssemblyInfo.cs
+/Users/dimaguzercuk/Projects/C_Sharp/2Lab/ReverseString/ReverseString/obj/Debug/net5.0/ReverseString.csproj.CoreCompileInputs.cache
+/Users/dimaguzercuk/Projects/C_Sharp/2Lab/ReverseString/ReverseString/obj/Debug/net5.0/ReverseString.dll
+/Users/dimaguzercuk/Projects/C_Sharp/2Lab/ReverseString/ReverseString/obj/Debug/net5.0/ref/ReverseString.dll
+/Users/dimaguzercuk/Projects/C_Sharp/2Lab/ReverseString/ReverseString/obj/Debug/net5.0/ReverseString.pdb
+/Users/dimaguzercuk/Projects/C_Sharp/2Lab/ReverseString/ReverseString/obj/Debug/net5.0/ReverseString.genruntimeconfig.cache

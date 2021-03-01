@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{A19D267B-EFD3-4608-8B0B-DA144AE31E47}|Default">
+  <MonoDevelop.Ide.ItemProperties.SuffleString PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SuffleString/Program.cs">
+    <Files>
+      <File FileName="SuffleString/Program.cs" Line="27" Column="26" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

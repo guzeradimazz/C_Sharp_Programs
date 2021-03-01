@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{0832F2B4-8618-4DD8-8A2B-6483AFCD9CFC}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="VowelReplacement/Program.cs">
+    <Files>
+      <File FileName="VowelReplacement/Program.cs" Line="26" Column="40" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.VowelReplacement PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
