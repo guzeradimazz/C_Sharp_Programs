@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{15B96B71-FB0A-46AC-8D87-B86262A232B0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Maze_The_Game/Program.cs">
+    <Files>
+      <File FileName="Maze_The_Game/Program.cs" Line="1" Column="14" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Maze__The__Game PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
