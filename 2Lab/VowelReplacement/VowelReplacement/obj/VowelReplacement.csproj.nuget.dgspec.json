@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/dimaguzercuk/Desktop/CSharp/2Lab/VowelReplacement/VowelReplacement/VowelReplacement.csproj": {}
+    "/Users/dimaguzercuk/Projects/C_Sharp/2Lab/VowelReplacement/VowelReplacement/VowelReplacement.csproj": {}
   },
   "projects": {
-    "/Users/dimaguzercuk/Desktop/CSharp/2Lab/VowelReplacement/VowelReplacement/VowelReplacement.csproj": {
+    "/Users/dimaguzercuk/Projects/C_Sharp/2Lab/VowelReplacement/VowelReplacement/VowelReplacement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/dimaguzercuk/Desktop/CSharp/2Lab/VowelReplacement/VowelReplacement/VowelReplacement.csproj",
+        "projectUniqueName": "/Users/dimaguzercuk/Projects/C_Sharp/2Lab/VowelReplacement/VowelReplacement/VowelReplacement.csproj",
         "projectName": "VowelReplacement",
-        "projectPath": "/Users/dimaguzercuk/Desktop/CSharp/2Lab/VowelReplacement/VowelReplacement/VowelReplacement.csproj",
+        "projectPath": "/Users/dimaguzercuk/Projects/C_Sharp/2Lab/VowelReplacement/VowelReplacement/VowelReplacement.csproj",
         "packagesPath": "/Users/dimaguzercuk/.nuget/packages/",
-        "outputPath": "/Users/dimaguzercuk/Desktop/CSharp/2Lab/VowelReplacement/VowelReplacement/obj/",
+        "outputPath": "/Users/dimaguzercuk/Projects/C_Sharp/2Lab/VowelReplacement/VowelReplacement/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/dimaguzercuk/.config/NuGet/NuGet.Config"

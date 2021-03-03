@@ -12,7 +12,7 @@ namespace SuffleString
             char[] InputChar = InputString.ToCharArray();
             for (int i = InputString.Length - 1; i >= 1; i--)
             {
-                int index = RandFunc.Next(i+1);
+                int index = RandFunc.Next(i);
                 char Temp = InputChar[index];
                 InputChar[index] = InputChar[i];
                 InputChar[i] = Temp;
@@ -24,6 +24,7 @@ namespace SuffleString
         }
         static void Main(string[] args)
         {
+            Console.WriteLine("Enter string that u need to shuffle");
             InputString = Console.ReadLine();
             Shuffle();
             Console.ReadLine();
