@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{0EC1D840-59B8-42C8-B977-864107704D16}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="GetDate/Program.cs">
+    <Files>
+      <File FileName="GetDate/Program.cs" Line="14" Column="65" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.GetDate PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,15 @@
+/Users/dimaguzercuk/Projects/C_Sharp/2Lab/GetDate/GetDate/bin/Debug/net5.0/GetDate.deps.json
+/Users/dimaguzercuk/Projects/C_Sharp/2Lab/GetDate/GetDate/bin/Debug/net5.0/GetDate.runtimeconfig.json
+/Users/dimaguzercuk/Projects/C_Sharp/2Lab/GetDate/GetDate/bin/Debug/net5.0/GetDate.runtimeconfig.dev.json
+/Users/dimaguzercuk/Projects/C_Sharp/2Lab/GetDate/GetDate/bin/Debug/net5.0/GetDate.dll
+/Users/dimaguzercuk/Projects/C_Sharp/2Lab/GetDate/GetDate/bin/Debug/net5.0/ref/GetDate.dll
+/Users/dimaguzercuk/Projects/C_Sharp/2Lab/GetDate/GetDate/bin/Debug/net5.0/GetDate.pdb
+/Users/dimaguzercuk/Projects/C_Sharp/2Lab/GetDate/GetDate/obj/Debug/net5.0/GetDate.csprojAssemblyReference.cache
+/Users/dimaguzercuk/Projects/C_Sharp/2Lab/GetDate/GetDate/obj/Debug/net5.0/GetDate.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dimaguzercuk/Projects/C_Sharp/2Lab/GetDate/GetDate/obj/Debug/net5.0/GetDate.AssemblyInfoInputs.cache
+/Users/dimaguzercuk/Projects/C_Sharp/2Lab/GetDate/GetDate/obj/Debug/net5.0/GetDate.AssemblyInfo.cs
+/Users/dimaguzercuk/Projects/C_Sharp/2Lab/GetDate/GetDate/obj/Debug/net5.0/GetDate.csproj.CoreCompileInputs.cache
+/Users/dimaguzercuk/Projects/C_Sharp/2Lab/GetDate/GetDate/obj/Debug/net5.0/GetDate.dll
+/Users/dimaguzercuk/Projects/C_Sharp/2Lab/GetDate/GetDate/obj/Debug/net5.0/ref/GetDate.dll
+/Users/dimaguzercuk/Projects/C_Sharp/2Lab/GetDate/GetDate/obj/Debug/net5.0/GetDate.pdb
+/Users/dimaguzercuk/Projects/C_Sharp/2Lab/GetDate/GetDate/obj/Debug/net5.0/GetDate.genruntimeconfig.cache
