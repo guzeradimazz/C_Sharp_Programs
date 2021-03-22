@@ -1,0 +1,15 @@
+/Users/dimaguzercuk/Projects/C_Sharp/MyClassLab_number3/MyClassLab_number3/bin/Debug/net5.0/MyClassLab_number3.deps.json
+/Users/dimaguzercuk/Projects/C_Sharp/MyClassLab_number3/MyClassLab_number3/bin/Debug/net5.0/MyClassLab_number3.runtimeconfig.json
+/Users/dimaguzercuk/Projects/C_Sharp/MyClassLab_number3/MyClassLab_number3/bin/Debug/net5.0/MyClassLab_number3.runtimeconfig.dev.json
+/Users/dimaguzercuk/Projects/C_Sharp/MyClassLab_number3/MyClassLab_number3/bin/Debug/net5.0/MyClassLab_number3.dll
+/Users/dimaguzercuk/Projects/C_Sharp/MyClassLab_number3/MyClassLab_number3/bin/Debug/net5.0/ref/MyClassLab_number3.dll
+/Users/dimaguzercuk/Projects/C_Sharp/MyClassLab_number3/MyClassLab_number3/bin/Debug/net5.0/MyClassLab_number3.pdb
+/Users/dimaguzercuk/Projects/C_Sharp/MyClassLab_number3/MyClassLab_number3/obj/Debug/net5.0/MyClassLab_number3.csprojAssemblyReference.cache
+/Users/dimaguzercuk/Projects/C_Sharp/MyClassLab_number3/MyClassLab_number3/obj/Debug/net5.0/MyClassLab_number3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dimaguzercuk/Projects/C_Sharp/MyClassLab_number3/MyClassLab_number3/obj/Debug/net5.0/MyClassLab_number3.AssemblyInfoInputs.cache
+/Users/dimaguzercuk/Projects/C_Sharp/MyClassLab_number3/MyClassLab_number3/obj/Debug/net5.0/MyClassLab_number3.AssemblyInfo.cs
+/Users/dimaguzercuk/Projects/C_Sharp/MyClassLab_number3/MyClassLab_number3/obj/Debug/net5.0/MyClassLab_number3.csproj.CoreCompileInputs.cache
+/Users/dimaguzercuk/Projects/C_Sharp/MyClassLab_number3/MyClassLab_number3/obj/Debug/net5.0/MyClassLab_number3.dll
+/Users/dimaguzercuk/Projects/C_Sharp/MyClassLab_number3/MyClassLab_number3/obj/Debug/net5.0/ref/MyClassLab_number3.dll
+/Users/dimaguzercuk/Projects/C_Sharp/MyClassLab_number3/MyClassLab_number3/obj/Debug/net5.0/MyClassLab_number3.pdb
+/Users/dimaguzercuk/Projects/C_Sharp/MyClassLab_number3/MyClassLab_number3/obj/Debug/net5.0/MyClassLab_number3.genruntimeconfig.cache
