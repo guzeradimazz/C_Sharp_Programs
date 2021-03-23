@@ -1,4 +1,5 @@
 ﻿using System;
+
 namespace MyClassLab_number3
 {
     enum color
@@ -13,6 +14,7 @@ namespace MyClassLab_number3
     }
     class AnimalClass
     {
+        
         public color Color;
         public string Habitat;
         public string Nutrition;

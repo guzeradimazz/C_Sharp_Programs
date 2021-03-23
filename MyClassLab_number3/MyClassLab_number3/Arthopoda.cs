@@ -1,10 +1,32 @@
 ﻿using System;
+using System.Collections.Generic;
 namespace MyClassLab_number3
 {
+    class Insects
+    {
+        private List<Arthopoda> name = new List<Arthopoda>();
+        public Arthopoda this[int index]
+        {
+            get
+            {
+                if (index < 0 && index >= name.Count)
+                {
+                    throw new Exception("There is no arthopoda with such index\n");
+                }
+                return name[index];
+            }
+            set
+            {
+                name.Add(value);
+            }
+        }
+    }
     class Arthopoda : AnimalClass
     {
+        Insects[] ArthopodaArray;
         public Arthopoda(int killedFly)
         {
+            ArthopodaArray = new Insects[50];
             this.killedFly = killedFly;
             killedInLifetime = killedFly; 
             Habitat = "Trees";
@@ -14,12 +36,14 @@ namespace MyClassLab_number3
         }
         public Arthopoda()
         {
+            ArthopodaArray = new Insects[50];
             killedFly = 0;
             Habitat = "Trees";
             Nutrition = "Insects";
             MovementSpeed = 5;
             Color = color.White;
         }
+  
         private int killedFly, killedInLifetime;
         private Guid id = Guid.NewGuid();
         public void weaveWeb()
