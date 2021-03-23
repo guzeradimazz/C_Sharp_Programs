@@ -1,5 +1,4 @@
 ﻿using System;
-
 namespace MyClassLab_number3
 {
     enum color

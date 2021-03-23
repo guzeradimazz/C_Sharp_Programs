@@ -4,20 +4,20 @@ namespace MyClassLab_number3
 {
     class Insects
     {
-        private List<Arthopoda> name = new List<Arthopoda>();
+        private List<Arthopoda> InsectsArmy = new List<Arthopoda>();
         public Arthopoda this[int index]
         {
             get
             {
-                if (index < 0 && index >= name.Count)
+                if (index < 0 && index >= InsectsArmy.Count)
                 {
                     throw new Exception("There is no arthopoda with such index\n");
                 }
-                return name[index];
+                return InsectsArmy[index];
             }
             set
             {
-                name.Add(value);
+                InsectsArmy.Add(value);
             }
         }
     }

@@ -1,12 +1,12 @@
 ﻿<Properties StartupConfiguration="{BB4E7DBE-D9F3-419F-A361-3174FA9F5D4F}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="MyClassLab_number3/Arthopoda.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MyClassLab_number3/Program.cs">
     <Files>
-      <File FileName="MyClassLab_number3/Program.cs" Line="7" Column="8" />
+      <File FileName="MyClassLab_number3/Program.cs" Line="38" Column="27" />
       <File FileName="MyClassLab_number3/AnimalClass.cs" />
-      <File FileName="MyClassLab_number3/Arthopoda.cs" Line="4" Column="6" />
+      <File FileName="MyClassLab_number3/Arthopoda.cs" />
       <File FileName="MyClassLab_number3/Fish.cs" />
-      <File FileName="MyClassLab_number3/Bear.cs" Line="1" Column="1" />
-      <File FileName="MyClassLab_number3/Worm.cs" Line="1" Column="1" />
+      <File FileName="MyClassLab_number3/Bear.cs" />
+      <File FileName="MyClassLab_number3/Worm.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -16,7 +16,7 @@
               <Node name="Dependencies" expanded="True">
                 <Node name="FrameworkReferences" expanded="True" />
               </Node>
-              <Node name="Arthopoda.cs" selected="True" />
+              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>

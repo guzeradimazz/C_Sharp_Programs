@@ -32,10 +32,10 @@ namespace MyClassLab_number3
             Fish1.eatGreen();
             Fish1.reproduction();
             Fish1.printInfo();
-            Insects nasekomoye = new Insects();
-            nasekomoye[0] = Spider1;
-            nasekomoye[0].killFly();
-            nasekomoye[0].weaveWeb();
+            Insects InsectsSoldier = new Insects();
+            InsectsSoldier[0] = Spider1;
+            InsectsSoldier[0].killFly();
+            InsectsSoldier[0].weaveWeb();
         }
     }
 }
