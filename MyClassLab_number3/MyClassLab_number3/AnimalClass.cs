@@ -13,7 +13,7 @@ namespace MyClassLab_number3
     }
     class AnimalClass
     {
-        
+        AnimalClass(){}
         public color Color;
         public string Habitat;
         public string Nutrition;
