@@ -22,7 +22,7 @@ namespace ProcessInfo.ProcessInfo
             return new Info(wrappers);
         }
 
-        public override string ToString()
+        public string ToString()
         {
             StringBuilder builder = new StringBuilder("Working processes:\n");
             

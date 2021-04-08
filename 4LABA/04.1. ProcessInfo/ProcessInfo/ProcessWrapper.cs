@@ -39,7 +39,7 @@ namespace ProcessInfo.ProcessInfo
             return wrappers.ToArray();
         }
 
-        public override string ToString()
+        public string ToString()
         {
             return String.Format("Process: id - {0}, name - {1}, memory usage - {2} MB, priority - {3}",
                 Id, Name, MemoryUsageInMB, Priority);
