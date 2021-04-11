@@ -42,6 +42,33 @@ namespace MyClassLab_number3
             Console.WriteLine($"ID: {id}");
             Console.WriteLine("=========================================");
         }
+        public virtual void swimming()
+        {
+            Console.WriteLine("Fish is swimming");
+        }
         ~Fish(){}
+    }
+    class Caras : Fish
+    {
+        public int fishesEated = 0;
+        public void eatOtherFish()
+        {
+            fishesEated++;
+        }
+        public void getEatedFishes()
+        {
+            Console.WriteLine($"This caras eated {fishesEated} fishes");
+        }
+        public override void swimming()
+        {
+            Console.WriteLine("I swim like CARAS");
+        }
+    }
+    class Schuka : Fish
+    {
+        public override void swimming()
+        {
+            Console.WriteLine("I swim like SCHUKA");
+        }
     }
 }
