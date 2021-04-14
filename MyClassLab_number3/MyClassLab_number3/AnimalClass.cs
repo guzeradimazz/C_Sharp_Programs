@@ -11,7 +11,7 @@ namespace MyClassLab_number3
         Brown,
         Yellow
     }
-    class AnimalClass
+    abstract class AnimalClass
     {
         public AnimalClass(){}
         public color Color;
