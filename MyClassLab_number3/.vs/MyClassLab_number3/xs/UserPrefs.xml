@@ -1,13 +1,23 @@
 ﻿<Properties StartupConfiguration="{BB4E7DBE-D9F3-419F-A361-3174FA9F5D4F}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="MyClassLab_number3/AnimalClass.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MyClassLab_number3/Program.cs">
     <Files>
-      <File FileName="MyClassLab_number3/Program.cs" Line="47" Column="23" />
-      <File FileName="MyClassLab_number3/Fish.cs" />
-      <File FileName="MyClassLab_number3/AnimalClass.cs" Line="13" Column="5" />
-      <File FileName="MyClassLab_number3/Arthopoda.cs" />
-      <File FileName="MyClassLab_number3/Bear.cs" />
-      <File FileName="MyClassLab_number3/Worm.cs" />
+      <File FileName="MyClassLab_number3/Program.cs" Line="55" Column="37" />
+      <File FileName="MyClassLab_number3/AnimalClass.cs" Line="30" Column="13" />
+      <File FileName="MyClassLab_number3/Bear.cs" Line="23" Column="10" />
+      <File FileName="MyClassLab_number3/Worm.cs" Line="21" Column="10" />
+      <File FileName="MyClassLab_number3/Arthopoda.cs" Line="1" Column="1" />
     </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MyClassLab_number3" expanded="True">
+            <Node name="MyClassLab_number3" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

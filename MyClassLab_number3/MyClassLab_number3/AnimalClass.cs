@@ -20,4 +20,13 @@ namespace MyClassLab_number3
         public int MovementSpeed;
         ~AnimalClass(){}
     }
+    interface IAnimalAffairs
+    {
+        int SleeppingHours { get; set; }
+        void SleepDeep();
+    }
+    interface ICloneable<Type>
+    {
+        Type Clone();
+    }
 }

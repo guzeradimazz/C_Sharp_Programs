@@ -1,18 +1,26 @@
 ﻿using System;
 namespace MyClassLab_number3
 {
-    class Fish : AnimalClass
+    class Fish : AnimalClass,IAnimalAffairs
     {
         public Fish()
         {
+
             Habitat = "Water";
             Nutrition = "Green and fishes";
             MovementSpeed = 20;
             Color = color.Blue;
         }
+        public int SleeppingHours { get; set; }
         private int children = 0;
         private Guid id = Guid.NewGuid();
         private bool isHungry = true;
+        public void SleepDeep()
+        {
+            children += 10;
+            SleeppingHours += 4;
+            Console.WriteLine($"This fish is sleepping a lot of time!\nRight now this fish have {children} childs");
+        }
         public void eatGreen()
         {
             isHungry = false;
@@ -40,6 +48,10 @@ namespace MyClassLab_number3
             Console.WriteLine($"Color of all Fishes : {Color}");
             Console.WriteLine($"Childrens of this Fish : {children}");
             Console.WriteLine($"ID: {id}");
+            if (SleeppingHours > 0)
+            {
+                Console.WriteLine($"This fish sleeps {SleeppingHours} hours");
+            }
             Console.WriteLine("=========================================");
         }
         public virtual void swimming()

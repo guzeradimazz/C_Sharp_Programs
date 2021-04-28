@@ -1,7 +1,7 @@
 ﻿using System;
 namespace MyClassLab_number3
 {
-    class Worm : AnimalClass
+    class Worm : AnimalClass,ICloneable<Worm>
     {
         public Worm()
         {
@@ -19,6 +19,12 @@ namespace MyClassLab_number3
             MovementSpeed = 1;
             Color = color.Red;
         }
+        public Worm Clone()
+        {
+            return new Worm { Name = this.Name, Age = this.Age };
+        }
+        public string Name { get; set; }
+        public int Age { get; set; }
         private Guid id = Guid.NewGuid();
         private bool isHungry;
         public void MoveUnderEarth()

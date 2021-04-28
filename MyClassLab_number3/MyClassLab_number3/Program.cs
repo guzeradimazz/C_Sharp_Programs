@@ -39,15 +39,38 @@ namespace MyClassLab_number3
             //^^^^^^^^^^^
             //realisation of 3rd lab
 
-            Fish carasMisha = new Caras();
-            Fish schukaDaneil = new Schuka();
-            Caras carasVasya = new Caras();
-            carasVasya.printInfo();
-            carasVasya.eatOtherFish();
-            carasVasya.getEatedFishes();
 
-            carasMisha.swimming();
-            schukaDaneil.swimming();
+            //======================6 lab=======
+            Bear BearBorya = new Bear(11);
+            BearBorya.fightWithBee();
+            BearBorya.SleepDeep();
+            BearBorya.printInfo();
+
+            Fish FishMatvey = new Fish();
+            FishMatvey.SleepDeep();
+            FishMatvey.swimming();
+            FishMatvey.reproduction();
+            FishMatvey.printInfo();
+            //my interface^^^^
+            Worm WormTest = new Worm(){Name = "Bobby", Age = 999};
+            Worm WormTestClonned = WormTest.Clone();
+            WormTest.Name = "Dimon";
+            WormTest.Age = 200;
+            Console.WriteLine(WormTest.Name + "  has age: " + WormTest.Age);
+            Console.WriteLine(WormTestClonned.Name + "  has age: " + WormTestClonned.Age);
+            //standart interface^^^^
+            //==================================
+            //=====================5 lab========
+            //Fish carasMisha = new Caras();
+            //Fish schukaDaneil = new Schuka();
+            //Caras carasVasya = new Caras();
+            //carasVasya.printInfo();
+            //carasVasya.eatOtherFish();
+            //carasVasya.getEatedFishes();
+
+            //carasMisha.swimming();
+            //schukaDaneil.swimming();
+            //==================================
         }
     }
 }
