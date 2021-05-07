@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/dimaguzercuk/Projects/7Lab/7Lab/7Lab.csproj",
+      "projectUniqueName": "/Users/dimaguzercuk/Projects/C_Sharp/7Lab/7Lab/7Lab.csproj",
       "projectName": "7Lab",
-      "projectPath": "/Users/dimaguzercuk/Projects/7Lab/7Lab/7Lab.csproj",
+      "projectPath": "/Users/dimaguzercuk/Projects/C_Sharp/7Lab/7Lab/7Lab.csproj",
       "packagesPath": "/Users/dimaguzercuk/.nuget/packages/",
-      "outputPath": "/Users/dimaguzercuk/Projects/7Lab/7Lab/obj/",
+      "outputPath": "/Users/dimaguzercuk/Projects/C_Sharp/7Lab/7Lab/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/dimaguzercuk/.config/NuGet/NuGet.Config"

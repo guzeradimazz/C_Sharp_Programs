@@ -208,7 +208,7 @@ namespace _7Lab
         public UInt16 ToUInt16(IFormatProvider provider)=> Convert.ToUInt16(GetDouble(), provider);
         public UInt32 ToUInt32(IFormatProvider provider)=> Convert.ToUInt32(GetDouble(), provider);
         public UInt64 ToUInt64(IFormatProvider provider)=> Convert.ToUInt64(GetDouble(), provider);
-        //yavno reproduce
+        //yavno
         public static explicit operator sbyte(Fraction x)=> x.ToSByte(null);
         public static explicit operator short(Fraction x)=> x.ToInt16(null);
         public static explicit operator int(Fraction x)=> x.ToInt32(null);
@@ -219,14 +219,10 @@ namespace _7Lab
         //operations...
         public static Fraction operator +(Fraction x) => x;
         public static Fraction operator -(Fraction x) => new Fraction(-x.num, x.den);
-        public static Fraction operator +(Fraction a, Fraction b)
-            => new Fraction(a.num * b.den + b.num * a.den, a.den * b.den);
-        public static Fraction operator -(Fraction a, Fraction b)
-            => a + (-b);
-        public static Fraction operator *(Fraction a, Fraction b)
-            => new Fraction(a.num * b.num, a.den * b.den);
-        public static Fraction operator *(Fraction a, long b)
-            => new Fraction(a.num * b, a.den);
+        public static Fraction operator +(Fraction a, Fraction b) => new Fraction(a.num * b.den + b.num * a.den, a.den * b.den);
+        public static Fraction operator -(Fraction a, Fraction b) => a + (-b);
+        public static Fraction operator *(Fraction a, Fraction b) => new Fraction(a.num * b.num, a.den * b.den);
+        public static Fraction operator *(Fraction a, long b) => new Fraction(a.num * b, a.den);
         public static Fraction operator /(Fraction a, Fraction b)
         {
             if (b.num == 0)
