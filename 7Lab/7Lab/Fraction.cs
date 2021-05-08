@@ -29,13 +29,9 @@ namespace _7Lab
         public void SetDen(long NewDen)
         {
             if (NewDen == 0)
-            {
                 throw new ArgumentException("Denominator can't be equal to zero.");
-            }
             else if (NewDen < 0)
-            {
                 throw new ArgumentException("Denominator must be a natural number.");
-            }
             den = NewDen;
         }
         private double GetDouble() => (double)num / den;
@@ -44,26 +40,18 @@ namespace _7Lab
             while (a != 0 && b != 0)
             {
                 if (a > b)
-                {
                     a %= b;
-                }
                 else
-                {
                     b %= a;
-                }
             }
             return a + b;
         }
         public static Fraction GetFraction(string s)
         {
             if (TryParse(s, out Fraction fraction))
-            {
                 return fraction;
-            }
             else
-            {
                 throw new FormatException("Incorrect format.");
-            }
         }
         public static bool TryParse(string s, out Fraction fraction)
         {
@@ -112,9 +100,7 @@ namespace _7Lab
         public override bool Equals(object obj)
         {
             if (obj.GetType() != GetType())
-            {
                 return false;
-            }
             return CompareTo((Fraction)obj) == 0;
         }
         public override string ToString() => ToString("S");
@@ -133,14 +119,9 @@ namespace _7Lab
         public string ToString(string format, IFormatProvider formatProvider)
         {
             if (string.IsNullOrEmpty(format))
-            {
                 format = "S";
-            }
-
             if (format == "S")
-            {
                 return $"{num}/{den}";
-            }
             else if (format == "M")
             {
                 if (Math.Abs(num) > den && den != 1)
@@ -149,14 +130,10 @@ namespace _7Lab
                     return $"{integer}({Math.Abs(num) % den}/{den})";
                 }
                 else
-                {
                     return ToString("I");
-                }
             }
             else if (format == "D")
-            {
                 return GetDouble().ToString();
-            }
             else if (format == "I")
             {
                 if (Math.Abs(num) > den)
@@ -165,14 +142,10 @@ namespace _7Lab
                     return integer.ToString();
                 }
                 else
-                {
                     return ToString("S");
-                }
             }
             else
-            {
-                throw new FormatException("format incorrect.");
-            }
+                throw new FormatException("format incorrect");
         }
         public TypeCode GetTypeCode() => TypeCode.Object;
         public bool ToBoolean(IFormatProvider provider) => num != 0;
@@ -207,17 +180,13 @@ namespace _7Lab
         public static Fraction operator /(Fraction a, Fraction b)
         {
             if (b.num == 0)
-            {
                 throw new DivideByZeroException();
-            }
             return new Fraction(a.num * b.den, a.den * b.num);
         }
         public static Fraction operator /(Fraction a, long b)
         {
             if (b == 0)
-            {
                 throw new DivideByZeroException();
-            }
             return new Fraction(a.num, a.den * b);
         }
         public static bool operator ==(Fraction first, Fraction second)
