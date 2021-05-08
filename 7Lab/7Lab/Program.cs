@@ -3,8 +3,6 @@ using System.Text.RegularExpressions;
 
 namespace _7Lab
 {
-    //перегрузки операторов зачем
-    //перегрузить оператор преобразования 
     public class Fraction : ICloneable, IComparable<Fraction>, IFormattable, IConvertible
     {
         private long num;
